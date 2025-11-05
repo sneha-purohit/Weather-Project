@@ -50,7 +50,7 @@ This project demonstrates how to collect and visualize weather data using a free
 
 ## 🖥️ Example Power BI Dashboard
 
-![Sample Dashboard](dashboard-screenshot.png)
+![Sample Dashboard](https://github.com/sneha-purohit/Weather-Project/blob/main/Dashboard%20Images/1.png)
 
 *Replace with a screenshot of your actual dashboard.*
 
